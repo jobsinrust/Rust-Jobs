@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Rust Jobs — 2026
 
-<sub><small>Last updated: Oct 12, 2026 at 21:16 UTC</small></sub>
+<sub><small>Last updated: Oct 13, 2026 at 19:14 UTC</small></sub>
 
 Daily Rust jobs curated by Jobs in Rust.
 Updated daily by [Jobs in Rust](https://jobsinrust.com?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs).
@@ -12,6 +12,12 @@ Visit [Jobs in Rust](https://jobsinrust.com?utm_source=github&utm_medium=repo&ut
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Datadog](https://jobsinrust.com/jobs/datadog-strategic-account-executive-philippines-market-102cb21f?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Strategic Account Executive (Philippines Market)](https://jobsinrust.com/jobs/datadog-strategic-account-executive-philippines-market-102cb21f?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | Singapore, Singapore | On Site | Full Time | Oct 13 |
+| **[Datadog](https://jobsinrust.com/jobs/datadog-strategic-account-executive-901507d6?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Strategic Account Executive](https://jobsinrust.com/jobs/datadog-strategic-account-executive-901507d6?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | Delhi, India | On Site | Full Time | Oct 13 |
+| **[Cloudflare](https://jobsinrust.com/jobs/cloudflare-senior-majors-account-executive-meta-san-francisco-bay-area-b9af1df0?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Senior Majors Account Executive (Meta) - San Francisco/Bay Area](https://jobsinrust.com/jobs/cloudflare-senior-majors-account-executive-meta-san-francisco-bay-area-b9af1df0?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | Hybrid | On Site | Full Time | Oct 12 |
+| **[Cloudflare](https://jobsinrust.com/jobs/cloudflare-senior-majors-account-executive-google-san-francisco-bay-area-7032bcdc?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Senior Majors Account Executive (Google) - San Francisco/Bay Area](https://jobsinrust.com/jobs/cloudflare-senior-majors-account-executive-google-san-francisco-bay-area-7032bcdc?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | Hybrid | On Site | Full Time | Oct 12 |
+| **[Cloudflare](https://jobsinrust.com/jobs/cloudflare-senior-majors-account-executive-apple-san-francisco-bay-area-d12333bd?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Senior Majors Account Executive (Apple) - San Francisco/Bay Area](https://jobsinrust.com/jobs/cloudflare-senior-majors-account-executive-apple-san-francisco-bay-area-d12333bd?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | Hybrid | On Site | Full Time | Oct 12 |
+| **[Cloudflare](https://jobsinrust.com/jobs/cloudflare-senior-systems-engineer-2d7bee0b?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Senior Systems Engineer](https://jobsinrust.com/jobs/cloudflare-senior-systems-engineer-2d7bee0b?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | Hybrid | On Site | Full Time | Oct 12 |
 | **[Stripe](https://jobsinrust.com/jobs/stripe-head-of-southern-europe-revenue-and-growth-dabe33b9?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Head of Southern Europe Revenue & Growth](https://jobsinrust.com/jobs/stripe-head-of-southern-europe-revenue-and-growth-dabe33b9?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | Madrid | On Site | Full Time | Oct 9 |
 | **[Datadog](https://jobsinrust.com/jobs/datadog-senior-network-engineer-office-technology-d4d23331?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Senior Network Engineer, Office Technology](https://jobsinrust.com/jobs/datadog-senior-network-engineer-office-technology-d4d23331?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | New York, New York, USA | On Site | Full Time | Oct 9 |
 | **[Stripe](https://jobsinrust.com/jobs/stripe-software-engineer-internal-identity-66639bf8?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Software Engineer, Internal Identity](https://jobsinrust.com/jobs/stripe-software-engineer-internal-identity-66639bf8?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | na | On Site | intern | Oct 9 |
@@ -56,21 +62,15 @@ Visit [Jobs in Rust](https://jobsinrust.com?utm_source=github&utm_medium=repo&ut
 | **[Stripe](https://jobsinrust.com/jobs/stripe-gtm-recruiting-manager-aa055573?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[GTM Recruiting Manager](https://jobsinrust.com/jobs/stripe-gtm-recruiting-manager-aa055573?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | US-Remote, Chicago, Atlanta | Remote | Full Time | Oct 6 |
 | **[Fastly](https://jobsinrust.com/jobs/fastly-staff-software-engineer-compute-platform-3fae3306?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Staff Software Engineer, Compute Platform](https://jobsinrust.com/jobs/fastly-staff-software-engineer-compute-platform-3fae3306?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | Denver, CO; San Francisco, CA | On Site | Full Time | Oct 6 |
 | **[Fastly](https://jobsinrust.com/jobs/fastly-software-engineer-platform-observability-and-intelligence-4246e046?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Software Engineer - Platform Observability and Intelligence](https://jobsinrust.com/jobs/fastly-software-engineer-platform-observability-and-intelligence-4246e046?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | New York City, NY; San Francisco, CA | On Site | Full Time | Oct 6 |
-| **[Stripe](https://jobsinrust.com/jobs/stripe-solutions-architect-smb-73b14bc3?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Solutions Architect, SMB](https://jobsinrust.com/jobs/stripe-solutions-architect-smb-73b14bc3?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | Chicago, IL | On Site | Full Time | Oct 6 |
-| **[Datadog](https://jobsinrust.com/jobs/datadog-enterprise-sales-executive-sled-a759729f?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Enterprise Sales Executive (SLED)](https://jobsinrust.com/jobs/datadog-enterprise-sales-executive-sled-a759729f?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | Atlanta, Georgia, USA; Boston, Massachusetts, USA | On Site | Full Time | Oct 6 |
-| **[Stripe](https://jobsinrust.com/jobs/stripe-senior-people-partner-gtm-88325ad8?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Senior People Partner, GTM](https://jobsinrust.com/jobs/stripe-senior-people-partner-gtm-88325ad8?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | San Francisco, Seattle or Chicago | On Site | Full Time | Oct 6 |
-| **[Stripe](https://jobsinrust.com/jobs/stripe-partner-marketing-leader-alliances-and-channel-f04880c9?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Partner Marketing Leader, Alliances & Channel](https://jobsinrust.com/jobs/stripe-partner-marketing-leader-alliances-and-channel-f04880c9?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | Seattle, San Francisco, or US-Remote | Remote | Full Time | Oct 6 |
-| **[Cloudflare](https://jobsinrust.com/jobs/cloudflare-senior-principal-data-strategy-and-governance-manager-8eb5c6a2?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Senior Principal Data Strategy & Governance Manager](https://jobsinrust.com/jobs/cloudflare-senior-principal-data-strategy-and-governance-manager-8eb5c6a2?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | Hybrid | On Site | Full Time | Oct 6 |
-| **[Grafana Labs](https://jobsinrust.com/jobs/grafana-labs-director-strategy-and-planning-united-states-remote-ab026e30?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Director, Strategy & Planning \| United States \| Remote](https://jobsinrust.com/jobs/grafana-labs-director-strategy-and-planning-united-states-remote-ab026e30?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | United States (Remote) | Remote | Full Time | Oct 6 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 7 companies | 0 salary ranges listed
+**Current Stats:** 50 jobs | 10% remote | 7 companies | 0 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-10-12 archive](archive/2026-10-12.md)
+- [2026-10-13 archive](archive/2026-10-13.md)
 
 ## About This Repository
 
