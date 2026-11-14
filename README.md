@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Rust Jobs — 2026
 
-<sub><small>Last updated: Nov 13, 2026 at 19:38 UTC</small></sub>
+<sub><small>Last updated: Nov 14, 2026 at 17:58 UTC</small></sub>
 
 Daily Rust jobs curated by Jobs in Rust.
 Updated daily by [Jobs in Rust](https://jobsinrust.com?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs).
@@ -12,6 +12,13 @@ Visit [Jobs in Rust](https://jobsinrust.com?utm_source=github&utm_medium=repo&ut
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Stripe](https://jobsinrust.com/jobs/stripe-head-of-enterprise-west-62f952de?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Head of Enterprise, West](https://jobsinrust.com/jobs/stripe-head-of-enterprise-west-62f952de?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | San Francisco, Seattle, Chicago or Remote | Remote | Full Time | Nov 13 |
+| **[Cloudflare](https://jobsinrust.com/jobs/cloudflare-principal-developer-platform-positioning-8161b7b0?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Principal, Developer Platform Positioning](https://jobsinrust.com/jobs/cloudflare-principal-developer-platform-positioning-8161b7b0?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | Hybrid | On Site | Full Time | Nov 13 |
+| **[Stripe](https://jobsinrust.com/jobs/stripe-head-of-enterprise-sales-marketplaces-1461cdfa?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Head of Enterprise Sales, Marketplaces](https://jobsinrust.com/jobs/stripe-head-of-enterprise-sales-marketplaces-1461cdfa?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | US-Chicago, US-Seattle, US-San Francisco, US-Remote | Remote | Full Time | Nov 13 |
+| **[Mozilla](https://jobsinrust.com/jobs/mozilla-vp-mozilla-studio-223391f8?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[VP, Mozilla Studio](https://jobsinrust.com/jobs/mozilla-vp-mozilla-studio-223391f8?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | Remote Canada; Remote Germany; Remote UK; Remote US | Remote | Full Time | Nov 13 |
+| **[Stripe](https://jobsinrust.com/jobs/stripe-software-engineer-vulnerability-management-16b0b4f1?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Software Engineer, Vulnerability Management](https://jobsinrust.com/jobs/stripe-software-engineer-vulnerability-management-16b0b4f1?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | na | On Site | Full Time | Nov 13 |
+| **[Cloudflare](https://jobsinrust.com/jobs/cloudflare-senior-forward-deployed-engineer-041a6743?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Senior Forward Deployed Engineer](https://jobsinrust.com/jobs/cloudflare-senior-forward-deployed-engineer-041a6743?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | Hybrid | On Site | Full Time | Nov 13 |
+| **[Datadog](https://jobsinrust.com/jobs/datadog-senior-commercial-account-executive-dach-a0e32fb9?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Senior Commercial Account Executive (DACH)](https://jobsinrust.com/jobs/datadog-senior-commercial-account-executive-dach-a0e32fb9?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | Amsterdam, The Netherlands | On Site | Full Time | Nov 13 |
 | **[Grafana Labs](https://jobsinrust.com/jobs/grafana-labs-major-account-executive-remote-sweden-dea66f75?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Major Account Executive \| Remote \| Sweden](https://jobsinrust.com/jobs/grafana-labs-major-account-executive-remote-sweden-dea66f75?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | Sweden (Remote) | Remote | Full Time | Nov 13 |
 | **[Stripe](https://jobsinrust.com/jobs/stripe-integration-reliability-engineer-technical-operations-411e7007?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Integration Reliability Engineer, Technical Operations](https://jobsinrust.com/jobs/stripe-integration-reliability-engineer-technical-operations-411e7007?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | Singapore | On Site | Full Time | Nov 13 |
 | **[Stripe](https://jobsinrust.com/jobs/stripe-analyst-relations-senior-manager-c0ba2b9b?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Analyst Relations Senior Manager](https://jobsinrust.com/jobs/stripe-analyst-relations-senior-manager-c0ba2b9b?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | Remote in the US | Remote | Full Time | Nov 12 |
@@ -55,22 +62,15 @@ Visit [Jobs in Rust](https://jobsinrust.com?utm_source=github&utm_medium=repo&ut
 | **[Datadog](https://jobsinrust.com/jobs/datadog-technical-account-manager-2-new-york-f39d2b98?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Technical Account Manager 2 - New York](https://jobsinrust.com/jobs/datadog-technical-account-manager-2-new-york-f39d2b98?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | New York, New York, USA | On Site | Full Time | Nov 10 |
 | **[Cloudflare](https://jobsinrust.com/jobs/cloudflare-executive-assistant-developer-platform-3a35d3f8?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Executive Assistant - Developer Platform](https://jobsinrust.com/jobs/cloudflare-executive-assistant-developer-platform-3a35d3f8?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | Hybrid | On Site | Full Time | Nov 10 |
 | **[Cloudflare](https://jobsinrust.com/jobs/cloudflare-senior-manager-apjc-outreach-f7a4e448?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Senior Manager, APJC Outreach](https://jobsinrust.com/jobs/cloudflare-senior-manager-apjc-outreach-f7a4e448?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | Hybrid | On Site | Full Time | Nov 10 |
-| **[Stripe](https://jobsinrust.com/jobs/stripe-head-of-strategic-accounts-solutions-architecture-d979deb1?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Head of Strategic Accounts, Solutions Architecture](https://jobsinrust.com/jobs/stripe-head-of-strategic-accounts-solutions-architecture-d979deb1?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | San Francisco, CA or New York, NY or Remote | Remote | Full Time | Nov 9 |
-| **[Stripe](https://jobsinrust.com/jobs/stripe-manager-account-executive-enterprise-grower-244d02a8?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Manager, Account Executive (Enterprise, Grower)](https://jobsinrust.com/jobs/stripe-manager-account-executive-enterprise-grower-244d02a8?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | New York | On Site | Full Time | Nov 9 |
-| **[Datadog](https://jobsinrust.com/jobs/datadog-technical-account-manager-3-denver-3b96a199?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Technical Account Manager 3 - Denver](https://jobsinrust.com/jobs/datadog-technical-account-manager-3-denver-3b96a199?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | Denver, Colorado, USA | On Site | Full Time | Nov 9 |
-| **[Datadog](https://jobsinrust.com/jobs/datadog-senior-recruiter-913b6785?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Senior Recruiter](https://jobsinrust.com/jobs/datadog-senior-recruiter-913b6785?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | Boston, Massachusetts, USA; Denver, Colorado, USA; New York, New York, USA | On Site | Full Time | Nov 9 |
-| **[Stripe](https://jobsinrust.com/jobs/stripe-education-partnerships-coordinator-9530bae3?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Education Partnerships Coordinator](https://jobsinrust.com/jobs/stripe-education-partnerships-coordinator-9530bae3?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | Dublin | On Site | Full Time | Nov 9 |
-| **[Cloudflare](https://jobsinrust.com/jobs/cloudflare-inside-sales-representative-557ab335?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Inside Sales Representative](https://jobsinrust.com/jobs/cloudflare-inside-sales-representative-557ab335?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | Hybrid | On Site | Full Time | Nov 9 |
-| **[Cloudflare](https://jobsinrust.com/jobs/cloudflare-inside-sales-representative-e7b8ffe9?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Inside Sales Representative](https://jobsinrust.com/jobs/cloudflare-inside-sales-representative-e7b8ffe9?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | Hybrid | On Site | Full Time | Nov 9 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 6 companies | 1 salary ranges listed
+**Current Stats:** 50 jobs | 20% remote | 6 companies | 1 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-13 archive](archive/2026-11-13.md)
+- [2026-11-14 archive](archive/2026-11-14.md)
 
 ## About This Repository
 
