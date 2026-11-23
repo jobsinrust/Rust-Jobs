@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Rust Jobs — 2026
 
-<sub><small>Last updated: Nov 22, 2026 at 19:32 UTC</small></sub>
+<sub><small>Last updated: Nov 23, 2026 at 23:49 UTC</small></sub>
 
 Daily Rust jobs curated by Jobs in Rust.
 Updated daily by [Jobs in Rust](https://jobsinrust.com?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs).
@@ -12,6 +12,7 @@ Visit [Jobs in Rust](https://jobsinrust.com?utm_source=github&utm_medium=repo&ut
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Datadog](https://jobsinrust.com/jobs/datadog-sourcer-ii-business-recruiting-8a88c9f6?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Sourcer II, Business Recruiting](https://jobsinrust.com/jobs/datadog-sourcer-ii-business-recruiting-8a88c9f6?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | Singapore, Singapore | On Site | Full Time | Nov 23 |
 | **[Cloudflare](https://jobsinrust.com/jobs/cloudflare-systems-engineer-network-software-performance-0f243e2c?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Systems Engineer - Network Software Performance](https://jobsinrust.com/jobs/cloudflare-systems-engineer-network-software-performance-0f243e2c?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | Hybrid | On Site | Full Time | Nov 21 |
 | **[Cloudflare](https://jobsinrust.com/jobs/cloudflare-systems-engineer-network-data-plane-software-996cf183?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Systems Engineer - Network Data Plane Software](https://jobsinrust.com/jobs/cloudflare-systems-engineer-network-data-plane-software-996cf183?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | Hybrid | On Site | Full Time | Nov 21 |
 | **[Cloudflare](https://jobsinrust.com/jobs/cloudflare-senior-systems-engineer-network-services-fbebfebd?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Senior Systems Engineer, Network Services](https://jobsinrust.com/jobs/cloudflare-senior-systems-engineer-network-services-fbebfebd?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | Hybrid | On Site | Full Time | Nov 21 |
@@ -61,7 +62,6 @@ Visit [Jobs in Rust](https://jobsinrust.com?utm_source=github&utm_medium=repo&ut
 | **[Grafana Labs](https://jobsinrust.com/jobs/grafana-labs-senior-product-partnership-manager-united-states-remote-c26537c7?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Senior Product Partnership Manager \| United States \| Remote](https://jobsinrust.com/jobs/grafana-labs-senior-product-partnership-manager-united-states-remote-c26537c7?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | United States (Remote) | Remote | Full Time | Nov 18 |
 | **[Stripe](https://jobsinrust.com/jobs/stripe-head-of-americas-internal-audit-1b9e9e24?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Head of Americas Internal Audit](https://jobsinrust.com/jobs/stripe-head-of-americas-internal-audit-1b9e9e24?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | SF, NYC | On Site | intern | Nov 18 |
 | **[Cloudflare](https://jobsinrust.com/jobs/cloudflare-strategic-account-director-developer-platform-bd3b2339?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Strategic Account Director, Developer Platform](https://jobsinrust.com/jobs/cloudflare-strategic-account-director-developer-platform-bd3b2339?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | Hybrid | On Site | Full Time | Nov 18 |
-| **[Cloudflare](https://jobsinrust.com/jobs/cloudflare-systems-engineer-data-loss-prevention-2f537b38?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Systems Engineer, Data Loss Prevention](https://jobsinrust.com/jobs/cloudflare-systems-engineer-data-loss-prevention-2f537b38?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | Hybrid | On Site | Full Time | Nov 18 |
 
 ---
 
@@ -70,7 +70,7 @@ _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-22 archive](archive/2026-11-22.md)
+- [2026-11-23 archive](archive/2026-11-23.md)
 
 ## About This Repository
 
