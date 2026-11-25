@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Rust Jobs — 2026
 
-<sub><small>Last updated: Nov 24, 2026 at 22:21 UTC</small></sub>
+<sub><small>Last updated: Nov 25, 2026 at 21:38 UTC</small></sub>
 
 Daily Rust jobs curated by Jobs in Rust.
 Updated daily by [Jobs in Rust](https://jobsinrust.com?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs).
@@ -12,6 +12,13 @@ Visit [Jobs in Rust](https://jobsinrust.com?utm_source=github&utm_medium=repo&ut
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Cloudflare](https://jobsinrust.com/jobs/cloudflare-senior-territory-account-executive-korea-1ae3e951?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Senior Territory Account Executive, Korea](https://jobsinrust.com/jobs/cloudflare-senior-territory-account-executive-korea-1ae3e951?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | Hybrid | On Site | Full Time | Nov 25 |
+| **[Datadog](https://jobsinrust.com/jobs/datadog-mid-market-account-executive-463d8466?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Mid Market Account Executive](https://jobsinrust.com/jobs/datadog-mid-market-account-executive-463d8466?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | Singapore, Singapore | On Site | Full Time | Nov 25 |
+| **[Mozilla](https://jobsinrust.com/jobs/mozilla-certificate-authority-program-steward-e0b03bc2?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Certificate Authority Program Steward](https://jobsinrust.com/jobs/mozilla-certificate-authority-program-steward-e0b03bc2?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | Remote Germany | Remote | Full Time | Nov 25 |
+| **[Stripe](https://jobsinrust.com/jobs/stripe-renewals-specialist-bdf4e367?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Renewals Specialist](https://jobsinrust.com/jobs/stripe-renewals-specialist-bdf4e367?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | Dublin | On Site | Full Time | Nov 25 |
+| **[Cloudflare](https://jobsinrust.com/jobs/cloudflare-senior-named-account-executive-new-business-cdfda71c?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Senior Named Account Executive, New Business](https://jobsinrust.com/jobs/cloudflare-senior-named-account-executive-new-business-cdfda71c?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | Hybrid | On Site | Full Time | Nov 24 |
+| **[Datadog](https://jobsinrust.com/jobs/datadog-enterprise-sales-executive-38c12d25?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Enterprise Sales Executive](https://jobsinrust.com/jobs/datadog-enterprise-sales-executive-38c12d25?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | Mexico City, Mexico | On Site | Full Time | Nov 24 |
+| **[Datadog](https://jobsinrust.com/jobs/datadog-technical-account-manager-2-mexico-city-0d53646e?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Technical Account Manager 2 - Mexico City](https://jobsinrust.com/jobs/datadog-technical-account-manager-2-mexico-city-0d53646e?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | Mexico City, Mexico | On Site | Full Time | Nov 24 |
 | **[Cloudflare](https://jobsinrust.com/jobs/cloudflare-senior-majors-account-executive-nashville-cda08dcf?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Senior Majors Account Executive - Nashville](https://jobsinrust.com/jobs/cloudflare-senior-majors-account-executive-nashville-cda08dcf?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | Distributed | On Site | Full Time | Nov 24 |
 | **[Datadog](https://jobsinrust.com/jobs/datadog-manager-corporate-security-1216e52a?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Manager, Corporate Security](https://jobsinrust.com/jobs/datadog-manager-corporate-security-1216e52a?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | New York, New York, USA | On Site | Full Time | Nov 23 |
 | **[Datadog](https://jobsinrust.com/jobs/datadog-manager-forward-deployed-engineering-implementation-services-2f8564c9?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Manager, Forward Deployed Engineering - Implementation Services](https://jobsinrust.com/jobs/datadog-manager-forward-deployed-engineering-implementation-services-2f8564c9?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | New York, New York, USA | On Site | Full Time | Nov 23 |
@@ -55,22 +62,15 @@ Visit [Jobs in Rust](https://jobsinrust.com?utm_source=github&utm_medium=repo&ut
 | **[Datadog](https://jobsinrust.com/jobs/datadog-enterprise-automation-engineer-8da34cf0?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Enterprise Automation Engineer](https://jobsinrust.com/jobs/datadog-enterprise-automation-engineer-8da34cf0?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | New York, New York, USA | On Site | Full Time | Nov 19 |
 | **[Cloudflare](https://jobsinrust.com/jobs/cloudflare-senior-commercial-account-executive-austin-086f32d5?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Senior Commercial Account Executive (Austin)](https://jobsinrust.com/jobs/cloudflare-senior-commercial-account-executive-austin-086f32d5?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | Hybrid | On Site | Full Time | Nov 19 |
 | **[Datadog](https://jobsinrust.com/jobs/datadog-national-partner-manager-062e697a?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[National Partner Manager](https://jobsinrust.com/jobs/datadog-national-partner-manager-062e697a?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | Texas, USA, Remote | Remote | Full Time | Nov 19 |
-| **[Datadog](https://jobsinrust.com/jobs/datadog-national-partner-manager-6843fad9?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[National Partner Manager](https://jobsinrust.com/jobs/datadog-national-partner-manager-6843fad9?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | Atlanta, Georgia, USA; Boston, Massachusetts, USA; Chicago, Illinois, USA; Denver, Colorado, USA; New York, New York, USA; San Francisco, California, USA | On Site | Full Time | Nov 19 |
-| **[Grafana Labs](https://jobsinrust.com/jobs/grafana-labs-senior-engineering-manager-grafana-data-visualization-usa-remote-02533d4f?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Senior Engineering Manager, Grafana Data Visualization \| USA \| Remote](https://jobsinrust.com/jobs/grafana-labs-senior-engineering-manager-grafana-data-visualization-usa-remote-02533d4f?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | United States (Remote) | Remote | Full Time | Nov 19 |
-| **[Datadog](https://jobsinrust.com/jobs/datadog-art-director-brand-07d3fd4c?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Art Director - Brand](https://jobsinrust.com/jobs/datadog-art-director-brand-07d3fd4c?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | New York, New York, USA | On Site | Full Time | Nov 19 |
-| **[Fastly](https://jobsinrust.com/jobs/fastly-senior-manager-pricing-and-packaging-140330ba?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Senior Manager - Pricing & Packaging](https://jobsinrust.com/jobs/fastly-senior-manager-pricing-and-packaging-140330ba?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | San Francisco, CA | On Site | Full Time | Nov 19 |
-| **[Fastly](https://jobsinrust.com/jobs/fastly-fp-and-a-manager-gtm-34f645b4?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[FP&A Manager - GTM](https://jobsinrust.com/jobs/fastly-fp-and-a-manager-gtm-34f645b4?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | San Francisco, CA | On Site | Full Time | Nov 19 |
-| **[Grafana Labs](https://jobsinrust.com/jobs/grafana-labs-senior-commercial-account-executive-acquisition-ca-remote-1b61bd46?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Senior Commercial Account Executive, Acquisition \| CA \| Remote](https://jobsinrust.com/jobs/grafana-labs-senior-commercial-account-executive-acquisition-ca-remote-1b61bd46?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | United States (Remote) | Remote | Full Time | Nov 19 |
-| **[Grafana Labs](https://jobsinrust.com/jobs/grafana-labs-senior-commercial-account-executive-growth-ca-remote-80e831aa?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | **[Senior Commercial Account Executive, Growth \| CA \| Remote](https://jobsinrust.com/jobs/grafana-labs-senior-commercial-account-executive-growth-ca-remote-80e831aa?utm_source=github&utm_medium=repo&utm_campaign=github-rust-jobs)** | United States (Remote) | Remote | Full Time | Nov 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 6 companies | 17 salary ranges listed
+**Current Stats:** 50 jobs | 18% remote | 7 companies | 15 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-24 archive](archive/2026-11-24.md)
+- [2026-11-25 archive](archive/2026-11-25.md)
 
 ## About This Repository
 
